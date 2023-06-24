@@ -24,3 +24,6 @@ I hope this helps! Let me know if you have any other questions.
 Resources that I found useful: 
 https://www.youtube.com/watch?v=sSno9rV8Rhg&t=1119s
 https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/
+https://link.springer.com/article/10.1007/s10664-019-09772-z?utm_source=substack&utm_medium=email
+https://www.youtube.com/watch?v=eG9oAroMcPk&t=1087s
+
