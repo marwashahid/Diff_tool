@@ -16,5 +16,11 @@ Here is a brief description of the steps involved in the Myers diff algorithm:
 4. Print the differences between the two strings.
 
 The Myers diff algorithm is a very efficient algorithm for comparing two strings. The algorithm is typically used to compare large files, such as source code files.
+
 Fun fact: Git uses four different diff algorithm but Myer's is the default one.
+
 I hope this helps! Let me know if you have any other questions. 
+
+Resources that I found useful: 
+https://www.youtube.com/watch?v=sSno9rV8Rhg&t=1119s
+https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/
